@@ -14,10 +14,12 @@ This profile and project repositories are still work in progress.
 <br>
 <img src="img/mate.png" height="210">  <img src="img/pipebomb.png" height="210">
 <img src="img/boykisser.png" height="210">
+<img src="img/thetutorial.png" height="210">
 <br>
 
 <img src="img/workinprog.png" width="420">
 
+<img src="https://github.com/rough-rat/blobbadge/blob/main/img/irl.gif?raw=true" width="420">
 
 
 # About us
