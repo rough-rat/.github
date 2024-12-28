@@ -28,6 +28,22 @@ Assembling 256x5 LEDs costs only 7USD. Since the 1515 RGB LED is so cheap, 1/3 o
 
 The brain module costs around 100usd/5pcs, but it's very much in development stage. It could be replaced by a much cheaper solution for sure.
 
+### Q: we have a problem with some badge / inquiry / want to say hi:
+
+We'll get a domain with mailbox soon maybe probably. In the meantime, you can:
+
+* message us on instagram (link on the top)
+* message me on the matrix.org instance - `cb1t`
+
+### Q: how do i tinker with firmware for the blobbadge?
+
+You use generic rust toolset, however, nightly is needed. After initial setup it should work rather well, however I still need someone to try to set this environment independently from me, to confirm this works OOTB.
+
+For programming, sadly you need an external probe. A DAPLink might be used, they may be expensive, but I heard you can get something working from aliexpress by searching `CMSIS DAP/DAPLink Simulator STM32 Debugger Downloader U Disk Drag And Drop Super JLINK/STLINK`
+
+Then you can use a generic 2x5 1.27pitch programming clip from aliexpress (can't find the link now) or 3d-print a fixture for this (I'll provide 3d files and instruction for this on the beginning of 2025) 
+
+
 # Random showcase
 
 <img src="img/neko.png" width="420">  <img src="img/moth.png" width="420">
