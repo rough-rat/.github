@@ -14,6 +14,18 @@ This profile and project repositories are still work in progress.
 A: We forgot to explicitly mark it. They should be soldered upside-down, like this:
 ![image](https://github.com/user-attachments/assets/cc62a5ab-5ee7-4d61-8ca0-0c70e47d59a6)
 
+### Q: How much did you pay for blobbadges (the one with CCC logo)?
+
+A: I'm terribly sorry, I've been telling lies for the first 2 days of the event - **it's closer to 5eur** (not 10eur). The calculations include +50% for extra fast shipping we needed :)
+
+- 1st batch (30pcs) costed $15 in PCBs + $75 for assembly.
+- 2nd batch (120pcs) costed $60 in PCBs (gold-plated in 2x2 panel) + $260 in components
+- the fronts (120pcs) costed $40
+- CR2032 + holder - $0.50 / pcs
+- button + pin - $0.50 / pcs
+
+Considering additional costs (transportation, developing debug fixture, granting some change money for others helping us at our desk) we might be able to gain a bit of a surplus after the event. Since we run our own friend ticket system at hackerspace pomerania, this surplus will cover the tickets for this year. We won't buy stupid crap with it, I promise.
+
 ### Q: what is the rough manufacturing cost of the cyberbadges? Are they your project?
 
 A: I (critbit) made a horrible mistake, thinking that noone would be interested in buying an 80eur cyberbadge, so I did not bring more of them. Their manufacturing + component cost is somewhere around 65eur, however 7/30 PCs arrived dead due to one ore more of the WS2812 LED not being soldered correctly and/or not working.
