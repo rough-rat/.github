@@ -9,10 +9,14 @@ Our creations are mostly open source, we invite everyone to contribute with idea
 This profile and project repositories are still work in progress.
 
 # FAQ
-### Q: what direction should LEDs be soldered in, on the boykisser badge?
+### Q: what direction should LEDs be soldered in?
 
-A: We forgot to explicitly mark it. They should be soldered upside-down, like this:
+A: We forgot to explicitly mark it on some badges. They should be soldered upside-down, like this:
 ![image](https://github.com/user-attachments/assets/cc62a5ab-5ee7-4d61-8ca0-0c70e47d59a6)
+
+![image](https://github.com/user-attachments/assets/7e17cf67-1640-4054-8029-81468ddeadc5)
+
+![image](https://github.com/user-attachments/assets/26490bdf-feee-47c3-90ab-5e92531aeae6)
 
 ### Q: How much did you pay for blobbadges (the one with CCC logo)?
 
